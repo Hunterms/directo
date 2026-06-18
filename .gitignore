@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Legacy unused source videos (videos embedded as base64 in index.html)
+feed-shopping.mp4
+feed-super.mp4
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+
+# Logs / debugging
+*.log
